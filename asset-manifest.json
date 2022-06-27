@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meme-machine/static/css/main.80291a00.css",
+    "main.js": "/meme-machine/static/js/main.926e7e29.js",
+    "index.html": "/meme-machine/index.html",
+    "main.80291a00.css.map": "/meme-machine/static/css/main.80291a00.css.map",
+    "main.926e7e29.js.map": "/meme-machine/static/js/main.926e7e29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80291a00.css",
+    "static/js/main.926e7e29.js"
+  ]
+}
